@@ -111,17 +111,8 @@ J2,http://120.132.122.244:59845/hls/81/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 有线18,rtmp://59.124.75.138:1935/sat/hk041
-天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
-天映经典,http://27.47.71.97:808/hls/62/index.m3u8
-天映频道,http://51.79.82.208:16024
-RTHK31,http://120.132.122.244:59845/hls/89/index.m3u8
-RTHK32,http://120.132.122.244:59845/hls/90/index.m3u8
-RTHK33,http://120.132.122.244:59845/hls/91/index.m3u8
-凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 八度空间,http://51.79.82.208:16005
-足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
 星空卫视台,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
