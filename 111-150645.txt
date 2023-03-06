@@ -1,4 +1,4 @@
-HK港澳台频道,#genre#
+港澳台频道,#genre#
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8
@@ -744,39 +744,7 @@ TVBS新聞,https://lss.line-scdn.net/cc_tw/p/live/hUkPJ5N5FC0U9XhVVBUsWclZjVXJAA
 東森新聞,https://lss.line-scdn.net/cc_tw/p/live/hVr8RhaEoCFxURhZMbVMVaz4sUz8pGBxcPRkSPyguBzgpS00OOUtGa3B8B2l7HEwKaU5FbnIsX2stXk4Kax5AbHQrSW0pBE4IOlJGOyA0UW4jG08KMEw/720/chunklist.m3u8
 民視新聞,https://lss.line-scdn.net/cc_tw/p/live/h6LXFIIC5aGI3UnZyDUd1VV48YAYYXyhgWFkvUhc6ZARBXCswClEgUEg2YwBNDSYwDQoiA0g2NFtISi40CwogUhQ_KVNJEC42WkYmBUAgN1FPBC40WFAn/720/chunklist.m3u8
 台灣生活新聞台,https://lss.line-scdn.net/cc_tw/p/live/htuvxWuk-KlsZbDRLI3k3bDpIazpmOWRfJzBjaTsJIG9iNGhcJDVgPGgId2w0M2RcIGdsb2oHJWJkN2pJd2Y2b2hWIWh4MW0TdGVmI2gHamxkOmwNdm5l/abr.m3u8
-HK港澳台频道,#genre#
-CCTV-1 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f//index.m3u8
-CCTV-2 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-3 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f//index.m3u8
-CCTV-4 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
-CCTV-5 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f//index.m3u8
-CCTV5+ 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8
-CCTV-6 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv6HD/__op/default/__f//index.m3u8
-CCTV-7 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv7HD/__op/default/__f//index.m3u8
-CCTV-8 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv8HD/__op/default/__f//index.m3u8
-CCTV-9 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv9HD/__op/default/__f//index.m3u8
-CCTV-10 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV-11 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv11HD/__op/default/__f//index.m3u8
-CCTV-12 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv12HD/__op/default/__f//index.m3u8
-CCTV-13 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f//index.m3u8
-CCTV-14 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f//index.m3u8
-CCTV-15 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f//index.m3u8
-CCTV-16 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f//index.m3u8
-CCTV-17 高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//index.m3u8
-CCTV-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
-CCTV16-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m3u8
-CCTV-怀旧剧场,http://ct.whosayssowhat.top:4022/udp/239.253.43.5:5146
-CCTV-第一剧场,http://ct.whosayssowhat.top:4022/udp/239.253.43.15:5146
-CCTV-风云剧场,http://ct.whosayssowhat.top:4022/udp/239.253.43.16:5146
-CCTV-风云足球,http://ct.whosayssowhat.top:4022/udp/239.253.43.14:5146
-CCTV-风云音乐,http://ct.whosayssowhat.top:4022/udp/239.253.43.6:5146
-CCTV-世界地理,http://ct.whosayssowhat.top:4022/udp/239.253.43.7:5146
-CCTV-女性时尚,http://ct.whosayssowhat.top:4022/udp/239.253.43.8:5146
-CCTV-兵器科技,http://ct.whosayssowhat.top:4022/udp/239.253.43.9:5146
-CCTV-电视指南,http://ct.whosayssowhat.top:4022/udp/239.253.43.10:5146
-CCTV-央视台球,http://ct.whosayssowhat.top:4022/udp/239.253.43.11:5146
-CCTV-高尔夫·网球,http://ct.whosayssowhat.top:4022/udp/239.253.43.12:5146
-CCTV-央视文化精品,http://ct.whosayssowhat.top:4022/udp/239.253.43.13:5146
+央视频道,#genre#
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV3,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
@@ -830,3 +798,29 @@ CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
 CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
+卫视频道,#genre#
+安徽卫视,http://121.51.249.45/live1.ahtv.cn/ahws/hd/live.m3u8
+江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
+广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
+四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
+湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
+浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
+东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
+北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
+天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
+辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
+安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
+黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
+广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
+深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
+河北卫视,https://live.v1.mk/api/ghyx.php?id=HeBeiHD_6000
+江西卫视,https://live.v1.mk/api/ghyx.php?id=JiangXiHD_6000
+天津卫视,https://live.v1.mk/api/ghyx.php?id=TianJinHD_6000
+重庆卫视,https://live.v1.mk/api/ghyx.php?id=ChongQingHD_6000
+黑龙江卫视,https://live.v1.mk/api/ghyx.php?id=HeiLongJiangHD_6000
+吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
+海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
+三沙卫视,https://live.v1.mk/api/ghyx.php?id=SanShaHD2_6000
+陕西卫视,https://live.v1.mk/api/ghyx.php?id=ShanXiHD2_6000
+云南卫视,https://live.v1.mk/api/ghyx.php?id=YunNanHD2_6000
+甘肃卫视,https://live.v1.mk/api/ghyx.php?id=GanSuHD2_6000
