@@ -63,7 +63,6 @@ NBC News,http://2022.stream-link.org/playlist/nbc_news.ts
 明珠台,http://jyjxy.7766.org:8811/hls/37/index.m3u8
 天映经典,http://jyjxy.7766.org:8811/hls/62/index.m3u8
 东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
-东森样片,http://jyjxy.7766.org:8811/hls/59/index.m3u8
 纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -204,8 +203,6 @@ TVBS亚洲台,http://pull-l3-cny.douyincdn.com/third/stream-9f6ea8b662a55d5fa562
 有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
 無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance
-峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
-峨眉电影,http://182.151.211.171:808/hls/58/index.m3u8
 Lifetime,http://www.336699.live:1935/blocksix/4gtv-live029.stream/chunklist.m3u8
 ABC互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunklist.m3u8
 东森购物1台,http://www.336699.live:1935/blocksix/4gtv-live047.stream/chunklist.m3u8
