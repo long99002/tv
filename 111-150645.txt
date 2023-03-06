@@ -16,6 +16,47 @@
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+翡翠台,https://pull-l3-cny.douyincdn.com/live/fbcecf987525dc18039658ff6b77600b.m3u8
+翡翠台,http://14.118.244.125:9981/stream/channelid/1766086569
+翡翠台,http://2022.stream-link.org/playlist/tvb_jade
+翡翠台,http://23.237.10.66:16106
+翡翠台,http://2023.stream-link.org/playlist/tvb_jade
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台,http://jydx.jdshipin.com:8081/hls/67/index.m3u8
+翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
+明珠台,http://14.118.244.125:9981/stream/channelid/442973337
+明珠台,https://pull-l3-cny.douyincdn.com/live/9a8e63f20d45802d79ceab166b554d75.m3u8
+无线新闻台,https://pull-l3-cny.douyincdn.com/live/a082240f8cfb1cb75455b375e9fbbdbc.m3u8
+无线财经台,https://pull-l3-cny.douyincdn.com/live/ec29a31964bfbe0bfae61e6a51cf3305.m3u8
+J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
+J2,https://pull-l3-cny.douyincdn.com/live/8c3280927f902b4471f6446d3a1a603e.m3u8
+华丽台,http://23.237.10.66:16410
+华丽台,http://2022.stream-link.org/playlist/astro_jade
+明珠台,http://107.167.12.58:36733翡翠台,http://2022.stream-link.org/playlist/tvb_jade.ts
+華麗(翡翠)台,http://2022.stream-link.org/playlist/astro_jade.ts
+八度空間,http://2022.stream-link.org/playlist/8tv.ts
+無綫新聞台,http://2022.stream-link.org/playlist/tvb_news.ts
+無綫財經·體育·資訊台,http://2022.stream-link.org/playlist/tvb_finance.ts
+港台电视31,http://2022.stream-link.org/playlist/rthk_31.ts
+港台电视32,http://2022.stream-link.org/playlist/rthk_32.ts
+有線新聞台,http://2022.stream-link.org/playlist/cable_news.ts
+有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance.ts
+香港開電視,http://2022.stream-link.org/playlist/hoy_tv.ts
+香港開電視資訊台,http://2022.stream-link.org/playlist/hoy_info.ts
+香港國際財經台,http://2022.stream-link.org/playlist/hkibc.ts
+鳳凰資訊台,http://2022.stream-link.org/playlist/phtv_info.ts
+鳳凰中文台,http://2022.stream-link.org/playlist/phtv_live.ts
+澳門蓮花衛視,http://2022.stream-link.org/playlist/macau_lotustv.ts
+ABC News,http://2022.stream-link.org/playlist/abc_news.ts
+ANN News,http://2022.stream-link.org/playlist/ann_news.ts
+Asianet News,http://2022.stream-link.org/playlist/asianet_news.ts
+CNA News,http://2022.stream-link.org/playlist/cna_news.ts
+DW News,http://2022.stream-link.org/playlist/dw_news.ts
+EURO News,http://2022.stream-link.org/playlist/euro_news.ts
+France 24 English,http://2022.stream-link.org/playlist/france_24e.ts
+GB News,http://2022.stream-link.org/playlist/gb_news.ts
+Haber Turk,http://2022.stream-link.org/playlist/haber_turk.ts
+NBC News,http://2022.stream-link.org/playlist/nbc_news.ts
 星空卫视,http://jyjxy.7766.org:8811/hls/31/index.m3u8
 凤凰中文,http://jyjxy.7766.org:8811/hls/32/index.m3u8
 凤凰资讯,http://jyjxy.7766.org:8811/hls/33/index.m3u8
@@ -27,8 +68,6 @@
 天映经典,http://jyjxy.7766.org:8811/hls/62/index.m3u8
 东森电影,http://jyjxy.7766.org:8811/hls/58/index.m3u8
 东森样片,http://jyjxy.7766.org:8811/hls/59/index.m3u8
-翡翠台,http://pull-l3-cny.douyincdn.com/third/stream-1f41fa6570c0c2fe39fef0752f76de81.m3u8
-J2,http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
 纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -44,10 +83,23 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
-IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
-IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
-IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
+東森財經新聞,http://2023.stream-link.org/playlist/ebc_finance.flv
+華視新聞,http://2023.stream-link.org/playlist/cts_news.flv
+中天新聞,http://2023.stream-link.org/playlist/cti_news.flv
+中視新聞,http://2023.stream-link.org/playlist/ctv_news.flv
+民視新聞,http://2023.stream-link.org/playlist/ftv_news.flv
+寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
+寰宇台灣新聞,http://2023.stream-link.org/playlist/global_tw.flv
+三立財經新聞,http://2023.stream-link.org/playlist/set_inews.flv
+三立新聞,http://2023.stream-link.org/playlist/set_news.flv
+三立新聞+,http://2023.stream-link.org/playlist/set_news+.flv
+台視新聞,http://2023.stream-link.org/playlist/ttv_news.flv
+TVBS新聞,http://2023.stream-link.org/playlist/tvbs_news.flv
+TVBS財經,http://2023.stream-link.org/playlist/tvbs.flv
+中天綜合台,http://2023.stream-link.org/playlist/cti_zh.flv
+中天亞洲台,http://2023.stream-link.org/playlist/cti_asia.flv
+天才衝衝衝,http://2023.stream-link.org/playlist/cts_zy.flv
+東森yoyo,http://2023.stream-link.org/playlist/ebc_yoyo.flv34/index.m3u8
 日语新闻台,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 东森电影台,http://120.84.96.55:808/hls/32/index.m3u8
 美国中文台,https://jpts.sinovision.net/livestream.m3u8
@@ -78,16 +130,6 @@ RTHK33,http://120.132.122.244:59845/hls/91/index.m3u8
 星空卫视台,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8
 天映頻道,http://210.210.155.37/dr9445/h/h14/index.m3u8
 天映頻道,http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-翡翠台,http://14.118.244.125:9981/stream/channelid/1766086569
-明珠台,http://14.118.244.125:9981/stream/channelid/442973337
-翡翠台,http://2022.stream-link.org/playlist/tvb_jade
-翡翠台,http://23.237.10.66:16106
-翡翠台,http://2023.stream-link.org/playlist/tvb_jade
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://jydx.jdshipin.com:8081/hls/67/index.m3u8
-华丽台,http://23.237.10.66:16410
-华丽台,http://2022.stream-link.org/playlist/astro_jade
-明珠台,http://107.167.12.58:36733
 八度空间,http://2022.stream-link.org/playlist/8tv
 TVB星河,http://110.72.100.44:8282/tsfile/live/1062_1.m3u8
 TVB星河,http://110.72.101.54:8282/tsfile/live/1062_1.m3u8
